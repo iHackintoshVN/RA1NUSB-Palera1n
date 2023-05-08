@@ -54,7 +54,7 @@ iOS 13.4 > 13.7 dùng Checkra1n từ 0.9.9 trở lên
 
 iOS 12.3 > 13.3.1 dùng Checkra1n từ 0.9.2 trở lên*
 
-iOS 15.0 trở lên dùng Palera1n High Sierra
+iOS 15.0 trở lên dùng Palera1n High Sierra (Chưa hoàn thiện)
 
 # Gõ lệnh trong Terminal
 
@@ -115,6 +115,7 @@ Chế độ bảng checkra1n màu đen (dùng được bàn phím để di chuy�
 Thêm d ở sau: Ví Dụ: 098d, 122d , ...
 
 # Ra1nUSB by TTJB,mod by Hoang Tuan and iHackintoshVN
+# Cảm ơn đã sử dụng
 
 
 
