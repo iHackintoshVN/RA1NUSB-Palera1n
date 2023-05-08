@@ -1,6 +1,8 @@
 # RA1NUSB-Palera1n
 RA1NUSB by TTJB - Mod by iHackintoshVN and Hoang tuan
 
+# Hỗ trợ iOS 12 trở lên 
+
 
 # Ra1nUSB Palera1n jailbreak cho iOS 15 trở lên 
 -Tải file Palera1n High Sierra cho MacOS tại: https://github.com/palera1n-High-Sierra/palera1n-High-Sierra/releases/download/425/palera1n.dmg rồi mở bằng 7-Zip để lấy file dạng palera1n.app
