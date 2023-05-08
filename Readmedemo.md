@@ -47,9 +47,13 @@ Link file crack transmac: https://drive.google.com/file/d/1h-EaG58yAeLjJPPkkFf5S
 Đối với iOS 15 trở lên yêu cầu các thiết bị có bộ nhớ trong 32gb trở lên mới jailbreak được
 
  iOS 14.5 > 14.8.1 dùng Checkra1n từ 0.12.3 trở lên
+
 iOS 14.0 > 14.4.2 dùng Checkra1n từ 0.11.0 trở lên
+
 iOS 13.4 > 13.7 dùng Checkra1n từ 0.9.9 trở lên
+
 iOS 12.3 > 13.3.1 dùng Checkra1n từ 0.9.2 trở lên*
+
 iOS 15.0 trở lên dùng Palera1n High Sierra
 
 # Gõ lệnh trong Terminal
