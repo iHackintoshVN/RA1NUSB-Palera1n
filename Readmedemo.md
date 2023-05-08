@@ -106,7 +106,7 @@ nhập fix20 sẽ ra minaUSB V1.1 (Dùng để fix lỗi -20 khi JailBreak)
 
 nhập purple sẽ ra purple pro
 
-nhập palera1n sẽ ra palera1n high sierra
+nhập palera1n sẽ ra palera1n High Sierra (Chưa hoàn thiện)
 
 # Không hỗ trợ các vấn đề liên quan đến (minaUSB V1.1, purple pro)
 
