@@ -52,7 +52,8 @@ Link file crack transmac: https://drive.google.com/file/d/1h-EaG58yAeLjJPPkkFf5S
 
 # Lưu ý
  Checkra1n chỉ hỗ trợ từ iPhone 5s (Chip A7) đến iPhone X (Chip A11)
- Palera1n chỉ hỗ trợ từ iPhone 6S  (Chip A8) đến iPhone X (Chip A11) chỉ jailbreak được cho iOS 15.0 trở lên
+
+ Palera1n chỉ hỗ trợ từ iPhone 6S  (Chip A8) đến iPhone X (Chip A11) chỉ jailbreak được cho iOS 15.0 trở lên (Yêu cầu bộ nhớ trong 32GB trở lên)
  
 Đối với iOS 15 trở lên yêu cầu các thiết bị có bộ nhớ trong 32gb trở lên mới jailbreak được
 
