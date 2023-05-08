@@ -45,7 +45,9 @@ Bản AMD: Chỉ có thể boot UEFI
 Boot UEFI có các Options còn Legacy sẽ không có (file Ra1nUSB_HT thì boot chuẩn nào cũng sẽ ra UEFI)
 
 Link phần mềm transmac: https://www.acutesystems.com/scrtm.htm
+
 Link phần mềm balena etcher: https://www.balena.io/etcher
+
 Link file crack transmac: https://drive.google.com/file/d/1h-EaG58yAeLjJPPkkFf5SPmlPSX4NENr/view
 
 # Lưu ý
